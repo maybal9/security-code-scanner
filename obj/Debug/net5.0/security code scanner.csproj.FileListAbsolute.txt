@@ -1,0 +1,18 @@
+C:\Users\mbala\Documents\Code assignments\security code scanner\bin\Debug\net5.0\security code scanner.exe
+C:\Users\mbala\Documents\Code assignments\security code scanner\bin\Debug\net5.0\security code scanner.deps.json
+C:\Users\mbala\Documents\Code assignments\security code scanner\bin\Debug\net5.0\security code scanner.runtimeconfig.json
+C:\Users\mbala\Documents\Code assignments\security code scanner\bin\Debug\net5.0\security code scanner.runtimeconfig.dev.json
+C:\Users\mbala\Documents\Code assignments\security code scanner\bin\Debug\net5.0\security code scanner.dll
+C:\Users\mbala\Documents\Code assignments\security code scanner\bin\Debug\net5.0\ref\security code scanner.dll
+C:\Users\mbala\Documents\Code assignments\security code scanner\bin\Debug\net5.0\security code scanner.pdb
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\security code scanner.csprojAssemblyReference.cache
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\security code scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\security code scanner.AssemblyInfoInputs.cache
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\security code scanner.AssemblyInfo.cs
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\security code scanner.csproj.CoreCompileInputs.cache
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\security code scanner.dll
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\ref\security code scanner.dll
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\security code scanner.pdb
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\security code scanner.genruntimeconfig.cache
+C:\Users\mbala\Documents\Code assignments\security code scanner\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mbala\Documents\Code assignments\security code scanner\obj\Debug\net5.0\security code scanner.csproj.CopyComplete
